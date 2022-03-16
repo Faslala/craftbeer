@@ -96,4 +96,8 @@ Dica: Copie e cole o conteúdo do arquivo acima no [Swagger Editor](https://edit
 
 Pode ser algo simples, como executar o arquivo Application.java. Ou talvez tenha alguma dependência como base de dados, por exemplo.
 
-TODO
+Eu fiz as atualizacoes de versao do spring boot e adicionei as dependencias que eu usei no desenvolvimento.
+Criei pacotes/classes repositorio, controle. entidade e servico para o desenvolvimento.
+O patchmapping eu nao fiz pq no putmapping da p fazer atualizacao parcial.
+Meu desenvolvimento foi feito a partir de 3 tutoriais no youtube e leitura dos links propostos.
+Ainda falta fazer a validacao, os testes e a colecao do postman
