@@ -100,4 +100,4 @@ Eu fiz as atualizacoes de versao do spring boot e adicionei as dependencias que 
 Criei pacotes/classes repositorio, controle. entidade e servico para o desenvolvimento.
 O patchmapping eu nao fiz pq no putmapping da p fazer atualizacao parcial.
 Meu desenvolvimento foi feito a partir de 3 tutoriais no youtube e leitura dos links propostos.
-Ainda falta fazer a validacao, os testes e a colecao do postman
+Ainda falta fazer os testes e a colecao do postman
