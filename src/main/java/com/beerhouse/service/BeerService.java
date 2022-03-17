@@ -27,6 +27,6 @@ public class BeerService {
     }
 
     public void removeById(Integer id) {
-        beerRepository.deleteAll();
+        beerRepository.deleteById(id);
     }
 }
